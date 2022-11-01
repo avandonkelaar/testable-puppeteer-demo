@@ -1,0 +1,12 @@
+{
+    "name": "Demo",
+    "version": "1.0.1",
+    "description": "Demo",
+     "dependencies": {
+      "chai": "4.3.6",
+      "mocha": "10.0.0",
+      "puppeteer-core": "^14.4.1",
+      "puppeteer": "^19.0",
+      "testable-utils": "0.5.12"
+    }
+}
